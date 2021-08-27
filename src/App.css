@@ -1,0 +1,6 @@
+.MuiTableCell-head {
+  background: rgb(236, 238, 240);
+  color: rgb(43, 48, 59) !important;
+  line-height: 2rem !important;
+  font-weight: 600 !important;
+}
